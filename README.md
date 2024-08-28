@@ -1,6 +1,6 @@
 ### Olá! Sou o Raphael Bianco. 
 ##
-- 🔭 Atualmente sou estudante de Análise e desenvolvimento de sistemas.
+- 🔭 Atualmente sou estudante de Análise e desenvolvimento de sistemas. Sou também técnico em eletrônica industrial e eletricísta predial.
 - 🌱 No momento estou aprendendo C# e Java.
 - 💬 Pergunte-me sobre C# e eletroeletrônica.
 - 📫 Como entrar em contato comigo: rcbcosta73@gmail.com.
