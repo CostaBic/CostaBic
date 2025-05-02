@@ -37,7 +37,8 @@ Email: rcbcosta73@gmail.com
   <img align="center" alt="Rapha-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rapha-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rapha-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rapha-IA" height="30" width="40" src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-ai-artificial-intelligence-flatart-icons-outline-flatarticons.png">
+  <img align="center" alt="Rapha-IA" height="30" width="40" src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png">
+
 </div>
 
 <br><br>
